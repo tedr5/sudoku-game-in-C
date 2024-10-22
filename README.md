@@ -14,7 +14,7 @@ A command-line application for solving and playing Sudoku, utilizing a graphical
 Clone the repository:
 
 ```bash
-  git clone https://github.com/tedr5/sudoku-game.git
+  git clone https://github.com/tedr5/sudoku-game-in-C.git
 ```
 - Compile the C files.
 - Ensure the uvsqgraphics library is available on your machine.
