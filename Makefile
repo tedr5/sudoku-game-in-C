@@ -46,7 +46,7 @@ clean:
 
 # Pour faire un zip
 # Mettre son nom à la place de SUDOKU
-LENOM=RAMAROMANANATOANDRO_THOMAS
+LENOM=MY_NAME
 zip:
 	rm -rf ${LENOM}
 	rm -rf ${LENOM}.zip
